@@ -1,0 +1,17 @@
+{
+    "people":[
+    {
+        "name": "John Smith",
+        "phone": "355-234-6462",
+        "emails":["deepak.blackandwhite@gmail.com","deepakrajan.grea@gmail.com"],
+        "has_license":false
+    },
+    {
+        "name": "Luke Cage",
+        "phone": "355-23432-5",
+        "emails":null,
+        "has_license": true
+    }
+    ],
+    "id": 4
+}

@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5d2764a65134c7",
+        "id": "50b70ed783f88251",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/Promises.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7e693fc448cddc93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "python/Python.md",
+            "file": "Go/README.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Promises.md",
+                "file": "Go/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,19 +96,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Go/Untitled.md",
+    "python/Modules/logging/logging.md",
+    "python/Modules/logging/Untitled.md",
+    "python/Modules/json/Read-Write.md",
+    "python/Modules/json/json.md",
+    "python/Python.md",
+    "python/Modules/json/Untitled.md",
     "javascript/Promises.md",
     "javascript/Callback.md",
-    "python/Modules/Sockets/Sockets.md",
-    "javascript/Javascript.md",
-    "javascript/Fetch API.md",
-    "javascript/callback.md",
-    "Untitled.md",
-    "javascript/Promise.md",
-    "python/Python.md",
-    "python/OPP.md"
+    "python/Modules/Sockets/Sockets.md"
   ]
 }
