@@ -23,5 +23,6 @@ const Person = () => <h2>Arrow func component</h2>;
 ## [[BookList]]
 Create a Booklist app from json data
 
-# Advanced React
+# Advanced React - Hooks
 - [[useStates]]
+- [[useEffect]]

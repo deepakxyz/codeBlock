@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/react/useStates.md",
+            "file": "javascript/react/hooks/useEffect.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/react/useStates.md",
+                "file": "javascript/react/hooks/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "javascript/react/useStates.md",
+    "javascript/react/hooks/useEffect.md",
     "javascript/react/react-js.md",
+    "useEffect.md",
+    "javascript/react/useStates.md",
     "useStates.md",
     "javascript/react/BookList.md",
     "BookList.md",
     "javascript/react/Untitled.md",
     "javascript/Callback.md",
-    "javascript/Fetch API.md",
-    "javascript/Javascript.md",
-    "Go/README.md"
+    "javascript/Fetch API.md"
   ]
 }
