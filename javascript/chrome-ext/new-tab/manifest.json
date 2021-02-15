@@ -1,0 +1,10 @@
+{
+    "manifest_version":2,
+    "name":"New-tab-override",
+    "version": "1.0",
+    "chrome_url_overrides":{
+        "newtab":"newtab.html"
+    }
+    
+} 
+

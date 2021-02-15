@@ -1,0 +1,21 @@
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Ha HaHa haha
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+deepakxyz.github.io
+artstation.com
+
+231-134-566
+321-555-4321
+123.555.1234
+
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+deepak_rajan
